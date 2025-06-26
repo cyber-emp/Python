@@ -10,3 +10,34 @@ print(my_dict)
 
 my_dict['banana'] = 7
 print(my_dict)
+
+
+
+# Dictionaries Part 2
+
+# Operators
+
+# Addition (+)
+# Subtraction (-)
+# Multiplication (*)
+# Division (/)
+# Modulus (%)
+# Exponent (**)
+
+x = 10
+y = 2
+
+print(x + y)  # Addition
+print(x - y)  # Subtraction
+print(x * y)  # Multiplication
+print(x / y)  # Division
+print(x % y)  # Modulus
+print(5 % 2)
+print(x ** y)  # Exponent
+
+z = 10
+
+z -= 2
+
+print(z)
+  

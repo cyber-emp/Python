@@ -25,3 +25,15 @@ for price in prices:
 
 print("\n")
 print(f"Your total sandwhich: R {total}")
+
+kyle = []
+
+while True:
+    kyle = input("is kyle gay? (yes/no): ")
+    if kyle == "yes":
+        print ("yes kyle is!")
+    elif kyle == "no":
+        print ("you fucking liar, taking the piss are you... Of course Kyle is gay")
+        
+for kyle in kyle:
+    print(kyle, end=" ")
